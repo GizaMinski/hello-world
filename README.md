@@ -1,4 +1,5 @@
 # hello-world
 Just anothe repository
 
-hello everyone and have a good mood
+всем привет и хорошего настроения
+!Взаимодействие с другими людьми!!
